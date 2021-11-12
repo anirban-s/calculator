@@ -38,7 +38,7 @@ body {
   overflow-x: auto;
 }
 
-/* Custom Scrollvbar */
+/* Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 10px;
 }
